@@ -16,7 +16,7 @@
         "php": ">7.4",
         "ext-soap": "*",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.3|^7.0|",
+        "guzzlehttp/guzzle": ">6.0",
         "illuminate/support": "^5.0|^6.0|^7.0|^8.0",
         "illuminate/http": "^5.0|^6.0|^7.0|^8.0",
         "illuminate/database": "^5.0|^6.0|^7.0|^8.0",
